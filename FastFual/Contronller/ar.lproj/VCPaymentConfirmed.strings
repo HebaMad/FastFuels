@@ -1,0 +1,15 @@
+
+/* Class = "UILabel"; text = "Payment Confirmed !"; ObjectID = "0IH-sd-KGV"; */
+"0IH-sd-KGV.text" = "تم تأكيد الدفع";
+
+/* Class = "UIButton"; normalTitle = "Back to home"; ObjectID = "Hd3-F1-FOr"; */
+"Hd3-F1-FOr.normalTitle" = "العودة للصفحة الرئيسية";
+
+/* Class = "UILabel"; text = "Your order code: #890012"; ObjectID = "aDu-QA-Gwv"; */
+"aDu-QA-Gwv.text" = ":رقم الطلب الخاص بك";
+
+/* Class = "UILabel"; text = "Your order has been confirmd\nnow, SP will start move"; ObjectID = "rn5-7N-elI"; */
+"rn5-7N-elI.text" = "Your order has been confirmd\nnow, SP will start move";
+
+/* Class = "UIButton"; normalTitle = "Track Order"; ObjectID = "wSQ-44-QHe"; */
+"wSQ-44-QHe.normalTitle" = "تتبع الطلب";

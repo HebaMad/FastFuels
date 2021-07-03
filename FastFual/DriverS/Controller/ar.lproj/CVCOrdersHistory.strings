@@ -1,0 +1,30 @@
+
+/* Class = "UIButton"; normalTitle = "Rate Order"; ObjectID = "BRr-hE-Nf8"; */
+"BRr-hE-Nf8.normalTitle" = "تقييم الطلب";
+
+/* Class = "UILabel"; text = "Supplement place"; ObjectID = "BwB-kh-g5O"; */
+"BwB-kh-g5O.text" = "Supplement place";
+
+/* Class = "UILabel"; text = "Supplement place"; ObjectID = "ES4-mV-TAx"; */
+"ES4-mV-TAx.text" = "Supplement place";
+
+/* Class = "UILabel"; text = "   Jazadco - جازادكو"; ObjectID = "GLA-9Z-poR"; */
+"GLA-9Z-poR.text" = "   Jazadco - جازادكو";
+
+/* Class = "UILabel"; text = "Open Now"; ObjectID = "fff-mj-neh"; */
+"fff-mj-neh.text" = "Open Now";
+
+/* Class = "UIButton"; normalTitle = "confirmed"; ObjectID = "gdM-1G-M8K"; */
+"gdM-1G-M8K.normalTitle" = "تأكيد";
+
+/* Class = "UILabel"; text = "Sun, 25.05.2020, 18:30"; ObjectID = "jcE-AX-dlq"; */
+"jcE-AX-dlq.text" = "Sun, 25.05.2020, 18:30";
+
+/* Class = "UILabel"; text = "3 km"; ObjectID = "jvb-F6-Mn6"; */
+"jvb-F6-Mn6.text" = "3 km";
+
+/* Class = "UILabel"; text = "  4102  Pretty View Jaddah, Suadi Arabia"; ObjectID = "kFD-7H-gfl"; */
+"kFD-7H-gfl.text" = "  4102  Pretty View Jaddah, Suadi Arabia";
+
+/* Class = "UILabel"; text = "  4102  Pretty View Jaddah, Suadi Arabia"; ObjectID = "qF9-en-DqD"; */
+"qF9-en-DqD.text" = "  4102  Pretty View Jaddah, Suadi Arabia";

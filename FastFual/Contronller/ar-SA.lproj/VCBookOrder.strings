@@ -1,0 +1,9 @@
+
+/* Class = "UILabel"; text = "Select Ship"; ObjectID = "3oU-CZ-UBH"; */
+"3oU-CZ-UBH.text" = "Select Ship";
+
+/* Class = "UIButton"; normalTitle = "Confirm"; ObjectID = "lHd-lF-yKC"; */
+"lHd-lF-yKC.normalTitle" = "Confirm";
+
+/* Class = "UILabel"; text = "Book Order"; ObjectID = "pBy-GC-Apd"; */
+"pBy-GC-Apd.text" = "Book Order";

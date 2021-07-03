@@ -1,0 +1,75 @@
+
+/* Class = "UILabel"; text = "5"; ObjectID = "0jC-DT-OJc"; */
+"0jC-DT-OJc.text" = "5";
+
+/* Class = "UILabel"; text = "OR #20014"; ObjectID = "1gQ-r0-L9i"; */
+"1gQ-r0-L9i.text" = "OR #20014";
+
+/* Class = "UITextView"; text = "have any notes..."; ObjectID = "5zG-cK-AUt"; */
+"5zG-cK-AUt.text" = "have any notes...";
+
+/* Class = "UILabel"; text = "  Label"; ObjectID = "CEt-la-nQv"; */
+"CEt-la-nQv.text" = "  Label";
+
+/* Class = "UILabel"; text = "03.99 SR"; ObjectID = "EDs-M4-Z04"; */
+"EDs-M4-Z04.text" = "03.99 SR";
+
+/* Class = "UILabel"; text = "Quantity"; ObjectID = "FDF-Jx-Qar"; */
+"FDF-Jx-Qar.text" = "Quantity";
+
+/* Class = "UILabel"; text = "Items:"; ObjectID = "LTk-I4-Aqw"; */
+"LTk-I4-Aqw.text" = "Items:";
+
+/* Class = "UILabel"; text = "Coupon"; ObjectID = "MRA-yT-tN5"; */
+"MRA-yT-tN5.text" = "Coupon";
+
+/* Class = "UIButton"; normalTitle = "Rate Order"; ObjectID = "OgK-Xa-bUu"; */
+"OgK-Xa-bUu.normalTitle" = "Rate Order";
+
+/* Class = "UILabel"; text = "Vat"; ObjectID = "P3I-Zq-VIQ"; */
+"P3I-Zq-VIQ.text" = "Vat";
+
+/* Class = "UILabel"; text = "20.12.2020, 12:30"; ObjectID = "U67-2a-Yvd"; */
+"U67-2a-Yvd.text" = "20.12.2020, 12:30";
+
+/* Class = "UILabel"; text = "20 ltr"; ObjectID = "UwJ-Ac-P8E"; */
+"UwJ-Ac-P8E.text" = "20 ltr";
+
+/* Class = "UILabel"; text = "Total Price"; ObjectID = "W7k-iZ-Vhx"; */
+"W7k-iZ-Vhx.text" = "Total Price";
+
+/* Class = "UILabel"; text = "50 SR"; ObjectID = "YDe-Lh-KIO"; */
+"YDe-Lh-KIO.text" = "50 SR";
+
+/* Class = "UILabel"; text = "Jazadco - جازادكو"; ObjectID = "ZCe-HZ-Pbv"; */
+"ZCe-HZ-Pbv.text" = "Jazadco - جازادكو";
+
+/* Class = "UILabel"; text = "Order Time"; ObjectID = "aS8-SP-u7l"; */
+"aS8-SP-u7l.text" = "Order Time";
+
+/* Class = "UILabel"; text = "85 SR"; ObjectID = "dtY-Op-mK5"; */
+"dtY-Op-mK5.text" = "85 SR";
+
+/* Class = "UILabel"; text = "Qty:"; ObjectID = "fFb-2B-Cym"; */
+"fFb-2B-Cym.text" = "Qty:";
+
+/* Class = "UILabel"; text = "4"; ObjectID = "fwj-Qb-5Ev"; */
+"fwj-Qb-5Ev.text" = "4";
+
+/* Class = "UIButton"; normalTitle = "Reorder"; ObjectID = "hDX-aO-C1H"; */
+"hDX-aO-C1H.normalTitle" = "Reorder";
+
+/* Class = "UILabel"; text = "5%"; ObjectID = "hhN-KD-ODO"; */
+"hhN-KD-ODO.text" = "5%";
+
+/* Class = "UILabel"; text = "Size"; ObjectID = "lmz-54-net"; */
+"lmz-54-net.text" = "Size";
+
+/* Class = "UILabel"; text = "Order Details"; ObjectID = "mhX-mJ-D3p"; */
+"mhX-mJ-D3p.text" = "Order Details";
+
+/* Class = "UILabel"; text = "Additional note"; ObjectID = "s0w-wu-jlM"; */
+"s0w-wu-jlM.text" = "Additional note";
+
+/* Class = "UILabel"; text = "0 SR"; ObjectID = "y82-Wh-b9t"; */
+"y82-Wh-b9t.text" = "0 SR";

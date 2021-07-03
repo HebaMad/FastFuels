@@ -1,0 +1,38 @@
+/* 
+  Localizable.strings
+  FastFual
+
+  Created by macbook on 6/15/21.
+  
+*/
+"English" = "English";
+"Arabic" = "العربية";
+"History" = "History";
+"Currunt" = "Currunt";
+"SR" = "SR";
+"Canceled" = "Canceled";
+"Pay Now" = "Pay Now";
+"Track" = "Track";
+"Rate order" = "Rate order";
+"Pending" = "Pending";
+"Confirmed" = "Confirmed";
+"Delivering" = "Delivering";
+"Canceled" = "Canceled";
+"Completed" = "Completed";
+"not paid" = "not paid";
+"payment done" = "payment done";
+"approved for payment" = "approved for payment";
+"order" = "order";
+"booking" = "booking";
+"Order Status" = "Order Status";
+"Payment Status" = "Payment Status";
+"Order type" = "Order type";
+"Bank transfer" = "Bank transfer";
+"Most Ordered" = "Most Ordered";
+"Near by" = "Near by";
+"Opening Now" = "Opening Now";
+"THERES NO NOTE" = "THERES NO NOTE";
+"Complete Order" = "Complete Order";
+"Already rating" = "Already rating";
+"rate Order" = "rate Order";
+

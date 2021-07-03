@@ -1,0 +1,33 @@
+
+/* Class = "UILabel"; text = "Terms and Condition"; ObjectID = "7gk-xT-mxi"; */
+"7gk-xT-mxi.text" = "الشروط والأحكام";
+
+/* Class = "UIButton"; normalTitle = "Supplier"; ObjectID = "Iiz-BB-Mdd"; */
+"Iiz-BB-Mdd.normalTitle" = "مزود";
+
+/* Class = "UIButton"; normalTitle = "Station"; ObjectID = "Rcr-vt-5FD"; */
+"Rcr-vt-5FD.normalTitle" = "محطة";
+
+/* Class = "UITextField"; placeholder = "Phone number"; ObjectID = "TbV-Sb-9Hc"; */
+"TbV-Sb-9Hc.placeholder" = "رقم هاتفك المحمول";
+
+/* Class = "UILabel"; text = "Join Us As"; ObjectID = "Und-dX-Jw7"; */
+"Und-dX-Jw7.text" = "انضم الينا";
+
+/* Class = "UILabel"; text = "Enter your phone number."; ObjectID = "ayT-WC-8FX"; */
+"ayT-WC-8FX.text" = "ادخل رقم هاتفك";
+
+/* Class = "UILabel"; text = "by clicking ‘Continue’, you have read and agree with our "; ObjectID = "bIp-aU-qsa"; */
+"bIp-aU-qsa.text" = "بالضغط على المتابعة تكون قد قرأت ،،افقت على الشروط والأحكام الخاصة بنا";
+
+/* Class = "UILabel"; text = "Welcome Back"; ObjectID = "evn-l0-Odm"; */
+"evn-l0-Odm.text" = "مرحبا بك مجددا";
+
+/* Class = "UILabel"; text = "we believe that a great app is a fast logining"; ObjectID = "jA1-bo-6fe"; */
+"jA1-bo-6fe.text" = "نحن نؤمن بأنه سيكون التطبيق الأفضل بوجودك معنا";
+
+/* Class = "UILabel"; text = "966"; ObjectID = "k9u-qa-Q0f"; */
+"k9u-qa-Q0f.text" = "966";
+
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "tQF-SX-2lZ"; */
+"tQF-SX-2lZ.normalTitle" = "استمر";

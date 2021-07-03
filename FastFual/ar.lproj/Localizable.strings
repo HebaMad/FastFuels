@@ -1,0 +1,37 @@
+/* 
+  Localizable.strings
+  FastFual
+
+  Created by macbook on 6/15/21.
+  
+*/
+"English" = "English";
+"Arabic" = "العربية";
+"History" = "الطلبات السابقة";
+"Currunt" = "الطلبات الحالية";
+"SR" = "ريال";
+"Canceled" = "إلغاء";
+"Pay Now" = "ادفع الآن";
+"Track" = "تتبع";
+"Rate order" = "تقييم الطلب";
+"Pending" = "في إنتظار التأكيد";
+"Confirmed" = "تم تأكيد الطلب";
+"Delivering" = "في الطريق للوجهة";
+"Canceled" = "ملغي";
+"Completed" = "مكتمل";
+"not paid" = "غير مدفوع";
+"payment done" = "تم الدفع";
+"approved for payment" = "تم الموافقة على الدفع";
+"order" = "طلب عادي";
+"booking" = "حجز";
+"Order Status" = "حالة الطلب";
+"Payment Status" = "حالة الدفع";
+"Order type" = "نوع الطلب";
+"Bank transfer" = "التحويل المصرفي";
+"Most Ordered" = "الأكثر طلبا";
+"Near by" = "الأقرب";
+"Opening Now" = "المتاح الآن";
+"THERES NO NOTE" = "لا يوجد اي ملاحظات";
+"Complete Order"= "إنهاء الطلب";
+"Already rating" = "مقيّم مسبقاً";
+"rate Order" = "قيّم الطلب";

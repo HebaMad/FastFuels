@@ -1,0 +1,84 @@
+
+/* Class = "UILabel"; text = "85 SR"; ObjectID = "0pC-qJ-p9d"; */
+"0pC-qJ-p9d.text" = "85 SR";
+
+/* Class = "UILabel"; text = "4102  Pretty View Jaddah, Suadi Arabia"; ObjectID = "8Jh-HV-KXB"; */
+"8Jh-HV-KXB.text" = "4102  Pretty View Jaddah, Suadi Arabia";
+
+/* Class = "UILabel"; text = "Jazadco - جازادكو"; ObjectID = "AzR-B4-R12"; */
+"AzR-B4-R12.text" = "Jazadco - جازادكو";
+
+/* Class = "UILabel"; text = "Coupon"; ObjectID = "DfT-p2-KNr"; */
+"DfT-p2-KNr.text" = "Coupon";
+
+/* Class = "UITextField"; placeholder = "type code here..."; ObjectID = "JBS-rS-NVx"; */
+"JBS-rS-NVx.placeholder" = "type code here...";
+
+/* Class = "UILabel"; text = "Additional note"; ObjectID = "LJa-2i-peB"; */
+"LJa-2i-peB.text" = "Additional note";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "M2R-RK-rq8"; */
+"M2R-RK-rq8.text" = "0";
+
+/* Class = "UILabel"; text = "Have coupon?"; ObjectID = "Nxd-W4-qjM"; */
+"Nxd-W4-qjM.text" = "Have coupon?";
+
+/* Class = "UILabel"; text = "Gas Types"; ObjectID = "PCn-F1-Fa4"; */
+"PCn-F1-Fa4.text" = "Gas Types";
+
+/* Class = "UILabel"; text = "Payment way"; ObjectID = "Phs-V9-XhK"; */
+"Phs-V9-XhK.text" = "Payment way";
+
+/* Class = "UILabel"; text = "| 25 SR"; ObjectID = "Qky-ld-a6K"; */
+"Qky-ld-a6K.text" = "| 25 SR";
+
+/* Class = "UILabel"; text = "Order Time"; ObjectID = "QoI-n4-Ngq"; */
+"QoI-n4-Ngq.text" = "Order Time";
+
+/* Class = "UILabel"; text = "Order Cart"; ObjectID = "SDA-vT-GmF"; */
+"SDA-vT-GmF.text" = "Order Cart";
+
+/* Class = "UILabel"; text = "Bank Transfer"; ObjectID = "T5V-3U-v5H"; */
+"T5V-3U-v5H.text" = "Bank Transfer";
+
+/* Class = "UILabel"; text = "Total Price"; ObjectID = "T8x-XU-YL4"; */
+"T8x-XU-YL4.text" = "Total Price";
+
+/* Class = "UILabel"; text = "visa, master card, mada"; ObjectID = "WyF-IJ-bF9"; */
+"WyF-IJ-bF9.text" = "visa, master card, mada";
+
+/* Class = "UIButton"; normalTitle = "Set Time"; ObjectID = "Yr8-bp-ard"; */
+"Yr8-bp-ard.normalTitle" = "Set Time";
+
+/* Class = "UILabel"; text = "| 25 SR"; ObjectID = "ajy-p5-udl"; */
+"ajy-p5-udl.text" = "| 25 SR";
+
+/* Class = "UILabel"; text = "5%"; ObjectID = "bhg-RI-oW1"; */
+"bhg-RI-oW1.text" = "5%";
+
+/* Class = "UIButton"; normalTitle = "Place Order"; ObjectID = "e86-hc-P8x"; */
+"e86-hc-P8x.normalTitle" = "Place Order";
+
+/* Class = "UILabel"; text = "vat"; ObjectID = "eyg-Hz-wet"; */
+"eyg-Hz-wet.text" = "vat";
+
+/* Class = "UILabel"; text = "Cash"; ObjectID = "fn3-UW-C17"; */
+"fn3-UW-C17.text" = "Cash";
+
+/* Class = "UILabel"; text = "4"; ObjectID = "ijx-Yn-UmE"; */
+"ijx-Yn-UmE.text" = "4";
+
+/* Class = "UILabel"; text = "36K Trella Ship"; ObjectID = "jSK-MS-cjs"; */
+"jSK-MS-cjs.text" = "36K Trella Ship";
+
+/* Class = "UILabel"; text = "Quantity"; ObjectID = "nJx-E6-n3Y"; */
+"nJx-E6-n3Y.text" = "Quantity";
+
+/* Class = "UILabel"; text = "Size"; ObjectID = "plq-xb-SM1"; */
+"plq-xb-SM1.text" = "Size";
+
+/* Class = "UIButton"; normalTitle = "Redeem"; ObjectID = "uON-zV-iW1"; */
+"uON-zV-iW1.normalTitle" = "Redeem";
+
+/* Class = "UILabel"; text = "50 SR"; ObjectID = "wbC-9u-BWN"; */
+"wbC-9u-BWN.text" = "50 SR";

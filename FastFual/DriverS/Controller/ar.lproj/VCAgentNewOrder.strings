@@ -1,0 +1,42 @@
+
+/* Class = "UILabel"; text = "Jazadco - جازادكو"; ObjectID = "3OJ-Mr-nFV"; */
+"3OJ-Mr-nFV.text" = "Jazadco - جازادكو";
+
+/* Class = "UILabel"; text = "Qty:"; ObjectID = "3qX-h3-QI4"; */
+"3qX-h3-QI4.text" = "الكمية:";
+
+/* Class = "UILabel"; text = "3Km"; ObjectID = "8k9-9U-PPl"; */
+"8k9-9U-PPl.text" = "3Km";
+
+/* Class = "UIButton"; normalTitle = "Rject"; ObjectID = "D6d-5g-lXi"; */
+"D6d-5g-lXi.normalTitle" = "Rject";
+
+/* Class = "UILabel"; text = "Items:"; ObjectID = "FF5-1M-be4"; */
+"FF5-1M-be4.text" = "الحجم:";
+
+/* Class = "UILabel"; text = "20 ltr"; ObjectID = "Itx-OW-OsL"; */
+"Itx-OW-OsL.text" = "20 ltr";
+
+/* Class = "UILabel"; text = "  4102  Pretty View Jaddah, Suadi Arabia"; ObjectID = "Rrk-Mz-3ee"; */
+"Rrk-Mz-3ee.text" = "  4102  Pretty View Jaddah, Suadi Arabia";
+
+/* Class = "UILabel"; text = "5201 ltr"; ObjectID = "cpx-wR-5BO"; */
+"cpx-wR-5BO.text" = "5201 ltr";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "crz-dI-bx5"; */
+"crz-dI-bx5.text" = "1";
+
+/* Class = "UILabel"; text = "Supplement place"; ObjectID = "j6b-31-Cac"; */
+"j6b-31-Cac.text" = "Supplement place";
+
+/* Class = "UIButton"; normalTitle = "Accept"; ObjectID = "rIM-zf-fGH"; */
+"rIM-zf-fGH.normalTitle" = "Accept";
+
+/* Class = "UILabel"; text = "  4102  Pretty View Jaddah, Suadi Arabia"; ObjectID = "vbR-zq-W8v"; */
+"vbR-zq-W8v.text" = "  4102  Pretty View Jaddah, Suadi Arabia";
+
+/* Class = "UILabel"; text = "Total:"; ObjectID = "vfk-Qj-HOg"; */
+"vfk-Qj-HOg.text" = "Total:";
+
+/* Class = "UILabel"; text = "3Km"; ObjectID = "zvx-Zi-Mit"; */
+"zvx-Zi-Mit.text" = "3Km";

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="17156" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="17125"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="VCNewUpdate" customModule="FastFual" customModuleProvider="target">
+            <connections>
+                <outlet property="buTryAgain" destination="Zsi-7C-TJ1" id="0GE-Pp-Te0"/>
+                <outlet property="view" destination="erE-SZ-Org" id="8S6-GJ-cd1"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="erE-SZ-Org">
+            <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" alignment="center" spacing="12" translatesAutoresizingMaskIntoConstraints="NO" id="IJc-3O-U2T">
+                    <rect key="frame" x="103" y="273" width="208.5" height="53"/>
+                    <subviews>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="New Update" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="jKs-ah-ihY">
+                            <rect key="frame" x="47.5" y="0.0" width="113.5" height="24"/>
+                            <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="20"/>
+                            <nil key="textColor"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="there is new update version now" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="zg4-jn-LGM">
+                            <rect key="frame" x="0.0" y="36" width="208.5" height="17"/>
+                            <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                            <color key="textColor" red="0.53218194799999996" green="0.53218194799999996" blue="0.53218194799999996" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                    </subviews>
+                </stackView>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="KHx-dB-NZr">
+                    <rect key="frame" x="66" y="370" width="282" height="50"/>
+                    <subviews>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Zsi-7C-TJ1">
+                            <rect key="frame" x="0.0" y="0.0" width="282" height="50"/>
+                            <fontDescription key="fontDescription" type="system" weight="medium" pointSize="15"/>
+                            <state key="normal" title="Update Now">
+                                <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            </state>
+                        </button>
+                    </subviews>
+                    <color key="backgroundColor" red="0.042007133359999997" green="0.52775794269999998" blue="0.61570221189999996" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                    <constraints>
+                        <constraint firstItem="Zsi-7C-TJ1" firstAttribute="leading" secondItem="KHx-dB-NZr" secondAttribute="leading" id="Uam-tT-gC1"/>
+                        <constraint firstAttribute="height" constant="50" id="c5J-Va-4UL"/>
+                        <constraint firstAttribute="trailing" secondItem="Zsi-7C-TJ1" secondAttribute="trailing" id="fn9-GA-Xk5"/>
+                        <constraint firstAttribute="bottom" secondItem="Zsi-7C-TJ1" secondAttribute="bottom" id="pdj-mL-OO4"/>
+                        <constraint firstItem="Zsi-7C-TJ1" firstAttribute="top" secondItem="KHx-dB-NZr" secondAttribute="top" id="xYF-Fo-H8e"/>
+                    </constraints>
+                    <userDefinedRuntimeAttributes>
+                        <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                            <real key="value" value="8"/>
+                        </userDefinedRuntimeAttribute>
+                        <userDefinedRuntimeAttribute type="number" keyPath="shadowBlur">
+                            <real key="value" value="40"/>
+                        </userDefinedRuntimeAttribute>
+                        <userDefinedRuntimeAttribute type="color" keyPath="shadowColor">
+                            <color key="value" red="0.10980392160000001" green="0.45882352939999999" blue="0.73725490199999999" alpha="0.25" colorSpace="custom" customColorSpace="calibratedRGB"/>
+                        </userDefinedRuntimeAttribute>
+                        <userDefinedRuntimeAttribute type="size" keyPath="shadowOffset">
+                            <size key="value" width="0.0" height="18"/>
+                        </userDefinedRuntimeAttribute>
+                        <userDefinedRuntimeAttribute type="number" keyPath="shadowOpacity">
+                            <real key="value" value="1"/>
+                        </userDefinedRuntimeAttribute>
+                        <userDefinedRuntimeAttribute type="boolean" keyPath="maskToBounds" value="NO"/>
+                    </userDefinedRuntimeAttributes>
+                </view>
+                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="n212" translatesAutoresizingMaskIntoConstraints="NO" id="9gk-Gb-e3o">
+                    <rect key="frame" x="108" y="64" width="198" height="187"/>
+                </imageView>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="PWS-rT-hqN"/>
+            <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+            <constraints>
+                <constraint firstItem="KHx-dB-NZr" firstAttribute="leading" secondItem="PWS-rT-hqN" secondAttribute="leading" constant="66" id="EK2-Gf-DMF"/>
+                <constraint firstAttribute="trailing" secondItem="KHx-dB-NZr" secondAttribute="trailing" constant="66" id="OtZ-B3-Avi"/>
+                <constraint firstItem="9gk-Gb-e3o" firstAttribute="centerX" secondItem="erE-SZ-Org" secondAttribute="centerX" id="QRL-my-lAl"/>
+                <constraint firstItem="IJc-3O-U2T" firstAttribute="top" secondItem="9gk-Gb-e3o" secondAttribute="bottom" constant="22" id="ehV-Ak-K1X"/>
+                <constraint firstItem="9gk-Gb-e3o" firstAttribute="top" secondItem="PWS-rT-hqN" secondAttribute="top" constant="20" id="osA-Ie-w8n"/>
+                <constraint firstItem="KHx-dB-NZr" firstAttribute="top" secondItem="IJc-3O-U2T" secondAttribute="bottom" constant="44" id="pOn-cz-Iyb"/>
+                <constraint firstItem="IJc-3O-U2T" firstAttribute="centerX" secondItem="erE-SZ-Org" secondAttribute="centerX" id="zYX-Bn-Pbt"/>
+            </constraints>
+            <point key="canvasLocation" x="137.68115942028987" y="83.705357142857139"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="n212" width="198" height="187"/>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

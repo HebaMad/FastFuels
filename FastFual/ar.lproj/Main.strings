@@ -1,0 +1,309 @@
+
+/* Class = "UILabel"; text = "About App"; ObjectID = "061-fZ-sb7"; */
+"061-fZ-sb7.text" = "حول التطبيق";
+
+/* Class = "UILabel"; text = "for any issues"; ObjectID = "0TX-uZ-KSx"; */
+"0TX-uZ-KSx.text" = "لأي استفسارات";
+
+/* Class = "UILabel"; text = "Filter"; ObjectID = "0m1-K3-iDH"; */
+"0m1-K3-iDH.text" = "الفلترة";
+
+/* Class = "UILabel"; text = "About App"; ObjectID = "1gW-15-NDo"; */
+"1gW-15-NDo.text" = "حول التطبيق";
+
+/* Class = "UITableViewSection"; headerTitle = "Section-1"; ObjectID = "1id-Ez-uwB"; */
+"1id-Ez-uwB.headerTitle" = "Section-1";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "23p-EY-saN"; */
+"23p-EY-saN.text" = "0";
+
+/* Class = "UILabel"; text = "  Sales quantity:"; ObjectID = "2he-Jh-B1I"; */
+"2he-Jh-B1I.text" = "   الكمية المباعة:";
+
+/* Class = "UIButton"; normalTitle = "Count"; ObjectID = "2vb-c3-PVO"; */
+"2vb-c3-PVO.normalTitle" = "الكمية";
+
+/* Class = "UILabel"; text = "4.5"; ObjectID = "2yh-Jt-Vvt"; */
+"2yh-Jt-Vvt.text" = "4.5";
+
+/* Class = "UILabel"; text = "Saved Providers"; ObjectID = "4YO-P3-D5G"; */
+"4YO-P3-D5G.text" = "المزودين المحفوظين";
+
+/* Class = "UITabBarItem"; title = "order"; ObjectID = "4m9-FT-Qqg"; */
+"4m9-FT-Qqg.title" = "الطلب";
+
+/* Class = "UILabel"; text = "App Language"; ObjectID = "58R-JW-ppr"; */
+"58R-JW-ppr.text" = "لغة التطبيق";
+
+/* Class = "UITabBarItem"; title = "Savd"; ObjectID = "5BC-pl-G0G"; */
+"5BC-pl-G0G.title" = "المحفوظات";
+
+/* Class = "UILabel"; text = "Featured Providers"; ObjectID = "5km-SH-hgY"; */
+"5km-SH-hgY.text" = "المزودين المميزين";
+
+/* Class = "UILabel"; text = "12313134"; ObjectID = "65X-b7-Umn"; */
+"65X-b7-Umn.text" = "12313134";
+
+/* Class = "UITabBarItem"; title = "Home"; ObjectID = "7Ee-8s-x57"; */
+"7Ee-8s-x57.title" = "الصفحة الرئيسية";
+
+/* Class = "UILabel"; text = "name, email, city"; ObjectID = "7hu-E2-uoK"; */
+"7hu-E2-uoK.text" = "الإسم،البريد الالكتروني،المنطقة";
+
+/* Class = "UILabel"; text = "contact admin"; ObjectID = "8sM-4s-ZEU"; */
+"8sM-4s-ZEU.text" = "تواصل معنا";
+
+/* Class = "UILabel"; text = "Home"; ObjectID = "91d-CF-5RP"; */
+"91d-CF-5RP.text" = "الصفحة الرئيسية";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "9Dd-gA-SpN"; */
+"9Dd-gA-SpN.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "9YR-RB-D48"; */
+"9YR-RB-D48.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "name, email, city"; ObjectID = "AhR-16-ufj"; */
+"AhR-16-ufj.text" = "الإسم،البريد الالكتروني،المنطقة";
+
+/* Class = "UILabel"; text = "Jaddah, Ameer Str. 5101"; ObjectID = "Anl-ec-jHl"; */
+"Anl-ec-jHl.text" = "Jaddah, Ameer Str. 5101";
+
+/* Class = "UILabel"; text = "for any issues"; ObjectID = "Axd-E9-0D6"; */
+"Axd-E9-0D6.text" = "لأي استفسارات";
+
+/* Class = "UILabel"; text = "Closer to"; ObjectID = "B4o-hQ-2lj"; */
+"B4o-hQ-2lj.text" = "موقعك";
+
+/* Class = "UILabel"; text = "Account"; ObjectID = "B66-aD-jQ9"; */
+"B66-aD-jQ9.text" = "الحساب";
+
+/* Class = "UILabel"; text = "  Price:"; ObjectID = "BsW-o5-W8i"; */
+"BsW-o5-W8i.text" = "  السعر:";
+
+/* Class = "UILabel"; text = "Map"; ObjectID = "C0K-GU-Nff"; */
+"C0K-GU-Nff.text" = "الخريطة";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "CMV-cX-fJR"; */
+"CMV-cX-fJR.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Date"; ObjectID = "CTZ-LG-ZzZ"; */
+"CTZ-LG-ZzZ.placeholder" = "التاريخ";
+
+/* Class = "UILabel"; text = "15.5 G | 20.4 D | 41.1 O"; ObjectID = "D6U-oE-0HC"; */
+"D6U-oE-0HC.text" = "15.5 G | 20.4 D | 41.1 O";
+
+/* Class = "UILabel"; text = "name, email, city"; ObjectID = "Dxv-GK-bDs"; */
+"Dxv-GK-bDs.text" = "الاسم ،البريد الالكتروني ،الموقع";
+
+/* Class = "UITextField"; placeholder = "Account name"; ObjectID = "FWG-cr-8jA"; */
+"FWG-cr-8jA.placeholder" = "اسم الحساب";
+
+/* Class = "UILabel"; text = "Good bye"; ObjectID = "G03-MO-3be"; */
+"G03-MO-3be.text" = "وداعا";
+
+/* Class = "UILabel"; text = "Edit account"; ObjectID = "G3U-q4-9Ny"; */
+"G3U-q4-9Ny.text" = "تعديل الحساب";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Gtd-dL-LfE"; */
+"Gtd-dL-LfE.text" = "Label";
+
+/* Class = "UILabel"; text = "change to arabic"; ObjectID = "JLt-MU-F1u"; */
+"JLt-MU-F1u.text" = "التحويل الى اللغة الانجليزية";
+
+/* Class = "UILabel"; text = "for any issues"; ObjectID = "KDX-EE-Qk3"; */
+"KDX-EE-Qk3.text" = "لأي استفسارات";
+
+/* Class = "UILabel"; text = "15.5 G | 20.4 D | 41.1 O"; ObjectID = "KIC-S0-GlG"; */
+"KIC-S0-GlG.text" = "15.5 G | 20.4 D | 41.1 O";
+
+/* Class = "UILabel"; text = "Bank Transfer"; ObjectID = "Lgq-1R-R1R"; */
+"Lgq-1R-R1R.text" = "التحويل البنكي";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Lh7-zW-UnB"; */
+"Lh7-zW-UnB.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Order Now"; ObjectID = "MJ7-vo-Kam"; */
+"MJ7-vo-Kam.normalTitle" = "اطلب الآن";
+
+/* Class = "UILabel"; text = "Privacy Policy"; ObjectID = "Mda-rs-1QE"; */
+"Mda-rs-1QE.text" = "سياسة الخصوصية";
+
+/* Class = "UIButton"; normalTitle = "Order Now"; ObjectID = "OOl-q5-vtY"; */
+"OOl-q5-vtY.normalTitle" = "اطلب الآن";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "OQT-Ks-k3e"; */
+"OQT-Ks-k3e.text" = "0";
+
+/* Class = "UILabel"; text = "4102  Pretty View Jaddah, Suadi Arabia"; ObjectID = "Or1-hW-kdK"; */
+"Or1-hW-kdK.text" = "4102  Pretty View Jaddah, Suadi Arabia";
+
+/* Class = "UILabel"; text = "4.5"; ObjectID = "PkJ-xR-P2s"; */
+"PkJ-xR-P2s.text" = "4.5";
+
+/* Class = "UILabel"; text = "(25+)"; ObjectID = "Py7-oe-Qyx"; */
+"Py7-oe-Qyx.text" = "(25+)";
+
+/* Class = "UITabBarItem"; title = "Account"; ObjectID = "QJe-bb-JCK"; */
+"QJe-bb-JCK.title" = "حسابي";
+
+/* Class = "UILabel"; text = "Sale Calculator"; ObjectID = "Qkl-LN-4Am"; */
+"Qkl-LN-4Am.text" = "حاسبة المبيعات";
+
+/* Class = "UILabel"; text = "Good bye"; ObjectID = "TJr-bW-v79"; */
+"TJr-bW-v79.text" = "الى اللقاء";
+
+/* Class = "UILabel"; text = "Sign out"; ObjectID = "Tbb-A4-LUY"; */
+"Tbb-A4-LUY.text" = "تسجيل الخروج";
+
+/* Class = "UILabel"; text = "Closer to"; ObjectID = "Tgx-jB-z0v"; */
+"Tgx-jB-z0v.text" = "موقعك";
+
+/* Class = "UILabel"; text = "   Do not send a bank confirmation request, except  after completing the entire transfer and receiving the transfer invoice from the bank employee."; ObjectID = "U6s-76-gua"; */
+"U6s-76-gua.text" = "   الرجاء عدم تأكيد الدفع إلا بعد استلام فاتورة التحويل من قبل العميل";
+
+/* Class = "UILabel"; text = "Open Now"; ObjectID = "UUt-IN-WfD"; */
+"UUt-IN-WfD.text" = "متاح الآن";
+
+/* Class = "UILabel"; text = "for any issues"; ObjectID = "UdP-8h-Ylh"; */
+"UdP-8h-Ylh.text" = "لأي استفسار";
+
+/* Class = "UILabel"; text = "Privacy Policy"; ObjectID = "Ujf-Og-vyn"; */
+"Ujf-Og-vyn.text" = "سياسة الخصوصية";
+
+/* Class = "UILabel"; text = "Transfer attachment"; ObjectID = "VJY-rv-hh7"; */
+"VJY-rv-hh7.text" = "ارفاق ملف التحويل";
+
+/* Class = "UILabel"; text = "ORDER"; ObjectID = "WJl-Im-h3D"; */
+"WJl-Im-h3D.text" = "الطلبات";
+
+/* Class = "UIButton"; normalTitle = "view All"; ObjectID = "WwC-ol-Lpi"; */
+"WwC-ol-Lpi.normalTitle" = "عرض الكل";
+
+/* Class = "UILabel"; text = "for any issues"; ObjectID = "Yb8-R7-3CZ"; */
+"Yb8-R7-3CZ.text" = "لأي استفسارات";
+
+/* Class = "UILabel"; text = "Filter Results"; ObjectID = "Yvl-wR-Jhu"; */
+"Yvl-wR-Jhu.text" = "نتائج الفلترة";
+
+/* Class = "UITextField"; placeholder = "Order ID"; ObjectID = "Z6u-zk-wbb"; */
+"Z6u-zk-wbb.placeholder" = "رقم الطلب";
+
+/* Class = "UILabel"; text = "contact admin"; ObjectID = "Zdh-Vb-gEo"; */
+"Zdh-Vb-gEo.text" = "تواصل معنا";
+
+/* Class = "UITabBarItem"; title = "Order"; ObjectID = "auc-xc-3iG"; */
+"auc-xc-3iG.title" = "الطلبات";
+
+/* Class = "UILabel"; text = "change to arabic"; ObjectID = "biw-MP-5r1"; */
+"biw-MP-5r1.text" = "التحويل الى اللغة الانجليزية";
+
+/* Class = "UITextField"; placeholder = "          Search for your order"; ObjectID = "c90-hM-8aY"; */
+"c90-hM-8aY.placeholder" = "             ابحث عن طلبك";
+
+/* Class = "UILabel"; text = "Find your nearby provider"; ObjectID = "cld-3y-wX6"; */
+"cld-3y-wX6.text" = "ابحث عن المزودين القريبين منك";
+
+/* Class = "UITableViewSection"; headerTitle = "Section-2"; ObjectID = "cpa-hP-toq"; */
+"cpa-hP-toq.headerTitle" = "Section-2";
+
+/* Class = "UITabBarItem"; title = "Home"; ObjectID = "dG3-Ia-HQN"; */
+"dG3-Ia-HQN.title" = "الصفحة الرئيسية";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "eLb-hJ-SBO"; */
+"eLb-hJ-SBO.text" = "Label";
+
+/* Class = "UILabel"; text = "SR"; ObjectID = "eNI-N4-H4g"; */
+"eNI-N4-H4g.text" = "SR";
+
+/* Class = "UILabel"; text = "Jaddah, Ameer Str. 5101"; ObjectID = "eti-Qp-Dkv"; */
+"eti-Qp-Dkv.text" = "Jaddah, Ameer Str. 5101";
+
+/* Class = "UILabel"; text = "Open Now"; ObjectID = "fBV-o4-SmV"; */
+"fBV-o4-SmV.text" = "متاح الآن";
+
+/* Class = "UITextField"; placeholder = "select your bank"; ObjectID = "fH8-Im-IsT"; */
+"fH8-Im-IsT.placeholder" = "اختر البنك الخاص فيك";
+
+/* Class = "UILabel"; text = "Sign out"; ObjectID = "flN-BC-faP"; */
+"flN-BC-faP.text" = "تسجيل الخروج";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "iJj-Qg-s0v"; */
+"iJj-Qg-s0v.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "4102  Pretty View Jaddah, Suadi Arabia"; ObjectID = "jL4-EZ-Lxb"; */
+"jL4-EZ-Lxb.text" = "4102  Pretty View Jaddah, Suadi Arabia";
+
+/* Class = "UILabel"; text = "ORDER"; ObjectID = "jsf-92-nVD"; */
+"jsf-92-nVD.text" = "الطلبات";
+
+/* Class = "UILabel"; text = "Max. size 5MB"; ObjectID = "lDf-YJ-sIF"; */
+"lDf-YJ-sIF.text" = "Max. size 5MB";
+
+/* Class = "UILabel"; text = "  Label"; ObjectID = "lmW-o0-4zm"; */
+"lmW-o0-4zm.text" = "  Label";
+
+/* Class = "UILabel"; text = "Sale Calculator"; ObjectID = "o9I-tn-Sph"; */
+"o9I-tn-Sph.text" = "حاسبة المبيعات";
+
+/* Class = "UILabel"; text = "Banks"; ObjectID = "oDA-WU-GyB"; */
+"oDA-WU-GyB.text" = "البنوك";
+
+/* Class = "UILabel"; text = "(25+)"; ObjectID = "p0x-jY-Zvn"; */
+"p0x-jY-Zvn.text" = "(25+)";
+
+/* Class = "UILabel"; text = "3 km"; ObjectID = "plJ-94-g3t"; */
+"plJ-94-g3t.text" = "3 km";
+
+/* Class = "UILabel"; text = "Nearby Providers"; ObjectID = "pq2-DL-LIT"; */
+"pq2-DL-LIT.text" = "المزودين القريبين";
+
+/* Class = "UILabel"; text = "12313134"; ObjectID = "qeN-eU-tZr"; */
+"qeN-eU-tZr.text" = "12313134";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "rL0-wa-jGf"; */
+"rL0-wa-jGf.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Send"; ObjectID = "rV6-wG-pf9"; */
+"rV6-wG-pf9.normalTitle" = "إرسال";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "sbd-lp-Ls4"; */
+"sbd-lp-Ls4.text" = "0";
+
+/* Class = "UILabel"; text = "Jazadco - جازادكو"; ObjectID = "scv-ia-77F"; */
+"scv-ia-77F.text" = "Jazadco - جازادكو";
+
+/* Class = "UILabel"; text = "  Remaining quantity:"; ObjectID = "tS5-QL-oSA"; */
+"tS5-QL-oSA.text" = "   الكمية المتبقية:";
+
+/* Class = "UITextField"; placeholder = "Amount"; ObjectID = "uCh-XQ-xBy"; */
+"uCh-XQ-xBy.placeholder" = "الكمية";
+
+/* Class = "UILabel"; text = "Search Result"; ObjectID = "vTL-fp-Kjk"; */
+"vTL-fp-Kjk.text" = "نتائج البحث";
+
+/* Class = "UILabel"; text = "Jazadco - جازادكو"; ObjectID = "vuH-qb-tK3"; */
+"vuH-qb-tK3.text" = "Jazadco - جازادكو";
+
+/* Class = "UILabel"; text = "App Language"; ObjectID = "wTT-pq-5QN"; */
+"wTT-pq-5QN.text" = "لغة التطبيق";
+
+/* Class = "UILabel"; text = "3 km"; ObjectID = "whv-qf-Vgv"; */
+"whv-qf-Vgv.text" = "3 km";
+
+/* Class = "UILabel"; text = "Edit account"; ObjectID = "wkM-jy-IFg"; */
+"wkM-jy-IFg.text" = "تعديل الحساب";
+
+/* Class = "UITabBarItem"; title = "profile"; ObjectID = "xI0-di-M6W"; */
+"xI0-di-M6W.title" = "ملفي الشخصي";
+
+/* Class = "UIButton"; normalTitle = "view All"; ObjectID = "yBi-WT-iCw"; */
+"yBi-WT-iCw.normalTitle" = "عرض الكل";
+
+/* Class = "UILabel"; text = "Account"; ObjectID = "zgB-DV-BRd"; */
+"zgB-DV-BRd.text" = "حسابي";
+
+/* Class = "UILabel"; text = "name, email, city"; ObjectID = "zh4-ne-YoJ"; */
+"zh4-ne-YoJ.text" = "الاسم،البريد الالكتروني،الموقع";
+
+/* Class = "UILabel"; text = "   Price: "; ObjectID = "zzD-DR-suf"; */
+"zzD-DR-suf.text" = "   السعر: ";

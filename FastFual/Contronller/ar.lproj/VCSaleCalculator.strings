@@ -1,0 +1,39 @@
+
+/* Class = "UILabel"; text = "  Sales quantity"; ObjectID = "0L8-XS-1IC"; */
+"0L8-XS-1IC.text" = "  Sales quantity";
+
+/* Class = "UIButton"; normalTitle = "Count"; ObjectID = "3Z1-kj-ffM"; */
+"3Z1-kj-ffM.normalTitle" = "Count";
+
+/* Class = "UILabel"; text = "  Remaining quantity"; ObjectID = "74r-Yj-Zzd"; */
+"74r-Yj-Zzd.text" = "  Remaining quantity";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Hab-6D-WTi"; */
+"Hab-6D-WTi.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "NGv-bx-IMf"; */
+"NGv-bx-IMf.text" = "Label";
+
+/* Class = "UILabel"; text = "   Price"; ObjectID = "Tpi-Ff-14x"; */
+"Tpi-Ff-14x.text" = "   Price";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "dwq-EV-sjf"; */
+"dwq-EV-sjf.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "elM-2n-LLq"; */
+"elM-2n-LLq.text" = "Label";
+
+/* Class = "UILabel"; text = "Sale Calculator"; ObjectID = "fLK-A4-Ijm"; */
+"fLK-A4-Ijm.text" = "Sale Calculator";
+
+/* Class = "UILabel"; text = "  Label"; ObjectID = "gta-ua-ZiI"; */
+"gta-ua-ZiI.text" = "  Label";
+
+/* Class = "UILabel"; text = "  Price"; ObjectID = "hdI-FA-iKS"; */
+"hdI-FA-iKS.text" = "  Price";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "iLz-ft-oYq"; */
+"iLz-ft-oYq.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ypn-jf-Fqa"; */
+"ypn-jf-Fqa.text" = "Label";

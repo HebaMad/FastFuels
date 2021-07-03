@@ -1,0 +1,9 @@
+
+/* Class = "UIButton"; normalTitle = "Confirm Cancelation"; ObjectID = "ZMt-2m-wiJ"; */
+"ZMt-2m-wiJ.normalTitle" = "Confirm Cancelation";
+
+/* Class = "UILabel"; text = "Confirm Cancelation ?"; ObjectID = "hvS-fM-oNI"; */
+"hvS-fM-oNI.text" = "Confirm Cancelation ?";
+
+/* Class = "UILabel"; text = "Are you sure that want to cancel order"; ObjectID = "yib-yj-Rjp"; */
+"yib-yj-Rjp.text" = "Are you sure that want to cancel order";

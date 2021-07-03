@@ -1,0 +1,15 @@
+
+/* Class = "UIButton"; normalTitle = "Back to Home"; ObjectID = "QW8-m9-XQx"; */
+"QW8-m9-XQx.normalTitle" = "Back to Home";
+
+/* Class = "UILabel"; text = "Your order code: #890012"; ObjectID = "ZiG-4S-UmS"; */
+"ZiG-4S-UmS.text" = "Your order code: #890012";
+
+/* Class = "UILabel"; text = "Order Sent !"; ObjectID = "d3R-JK-YS1"; */
+"d3R-JK-YS1.text" = "Order Sent !";
+
+/* Class = "UIButton"; normalTitle = "CHECK ORDER"; ObjectID = "iHQ-gy-3Ll"; */
+"iHQ-gy-3Ll.normalTitle" = "CHECK ORDER";
+
+/* Class = "UILabel"; text = "Your order has been sent to the Provider and waiting for Accepting!"; ObjectID = "kCn-d6-HW9"; */
+"kCn-d6-HW9.text" = "Your order has been sent to the Provider and waiting for Accepting!";

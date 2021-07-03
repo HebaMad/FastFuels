@@ -1,0 +1,18 @@
+
+/* Class = "UILabel"; text = "Price"; ObjectID = "DUy-c7-Nzh"; */
+"DUy-c7-Nzh.text" = "السعر";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "G7r-yi-Mje"; */
+"G7r-yi-Mje.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "HDe-MR-8sT"; */
+"HDe-MR-8sT.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "aG7-2i-IMe"; */
+"aG7-2i-IMe.text" = "Label";
+
+/* Class = "UILabel"; text = "Tank Name"; ObjectID = "bJD-UK-eM2"; */
+"bJD-UK-eM2.text" = "إسم الخزان";
+
+/* Class = "UILabel"; text = "Fuel Type"; ObjectID = "k8x-Za-l8x"; */
+"k8x-Za-l8x.text" = "نوع الوقود";

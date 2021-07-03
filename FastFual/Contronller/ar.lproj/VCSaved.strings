@@ -1,0 +1,15 @@
+
+/* Class = "UILabel"; text = "15.5 G | 20.4 D | 41.1 O"; ObjectID = "5jM-ea-ZKl"; */
+"5jM-ea-ZKl.text" = "15.5 G | 20.4 D | 41.1 O";
+
+/* Class = "UILabel"; text = "Saved Providers"; ObjectID = "JCr-ef-bvZ"; */
+"JCr-ef-bvZ.text" = "المزودين المحفوظين";
+
+/* Class = "UILabel"; text = "Closer to"; ObjectID = "L9z-1U-lvm"; */
+"L9z-1U-lvm.text" = "موقعك";
+
+/* Class = "UITextField"; placeholder = "Search for your order"; ObjectID = "VEz-Pk-cjE"; */
+"VEz-Pk-cjE.placeholder" = "ابحث عن طلبك";
+
+/* Class = "UILabel"; text = "Jaddah, Ameer Str. 5101"; ObjectID = "mLu-FD-shm"; */
+"mLu-FD-shm.text" = "Jaddah, Ameer Str. 5101";

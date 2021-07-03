@@ -1,0 +1,15 @@
+
+/* Class = "UILabel"; text = "Iban"; ObjectID = "3Bw-8y-hIN"; */
+"3Bw-8y-hIN.text" = "الايبان";
+
+/* Class = "UILabel"; text = "Account Number"; ObjectID = "8ix-SU-erb"; */
+"8ix-SU-erb.text" = "رقم الحساب";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "SPx-Ab-okA"; */
+"SPx-Ab-okA.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "oQb-xn-flv"; */
+"oQb-xn-flv.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ohu-kw-ilZ"; */
+"ohu-kw-ilZ.text" = "Label";

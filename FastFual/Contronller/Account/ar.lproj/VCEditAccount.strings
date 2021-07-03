@@ -1,0 +1,24 @@
+
+/* Class = "UITextField"; placeholder = "5XXXXXXXX"; ObjectID = "A2w-rS-EFc"; */
+"A2w-rS-EFc.placeholder" = "5XXXXXXXX";
+
+/* Class = "UITextField"; placeholder = "Riyadh"; ObjectID = "EQ5-cn-IHk"; */
+"EQ5-cn-IHk.placeholder" = "Riyadh";
+
+/* Class = "UILabel"; text = "Add Profile Picture"; ObjectID = "HxH-cE-E0s"; */
+"HxH-cE-E0s.text" = "Add Profile Picture";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "Qeu-A1-Gzg"; */
+"Qeu-A1-Gzg.normalTitle" = "Save";
+
+/* Class = "UITextField"; placeholder = "Username"; ObjectID = "TdW-fG-6Lh"; */
+"TdW-fG-6Lh.placeholder" = "Username";
+
+/* Class = "UILabel"; text = "Edit Profile"; ObjectID = "ri3-F9-9XP"; */
+"ri3-F9-9XP.text" = "تعديل الحساب";
+
+/* Class = "UILabel"; text = "change mobile number need verification"; ObjectID = "u70-uP-FDA"; */
+"u70-uP-FDA.text" = "change mobile number need verification";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "zTg-Ia-KMX"; */
+"zTg-Ia-KMX.placeholder" = "Email";

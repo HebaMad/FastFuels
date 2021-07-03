@@ -1,0 +1,12 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "I7c-Oh-CpA"; */
+"I7c-Oh-CpA.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "SU1-Kq-12g"; */
+"SU1-Kq-12g.text" = "Label";
+
+/* Class = "UILabel"; text = "current Reading"; ObjectID = "oPO-mr-uo0"; */
+"oPO-mr-uo0.text" = "القراءة الحالية";
+
+/* Class = "UILabel"; text = "Previos Reading"; ObjectID = "v9p-j3-xjx"; */
+"v9p-j3-xjx.text" = "القراءة السابقة";

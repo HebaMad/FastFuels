@@ -1,0 +1,24 @@
+
+/* Class = "UILabel"; text = "OR #20014"; ObjectID = "Faj-cv-D4O"; */
+"Faj-cv-D4O.text" = "OR #20014";
+
+/* Class = "UIButton"; normalTitle = "pending"; ObjectID = "KPO-2c-Dty"; */
+"KPO-2c-Dty.normalTitle" = "pending";
+
+/* Class = "UILabel"; text = "Jazadco - جازادكو"; ObjectID = "QRO-IC-lFQ"; */
+"QRO-IC-lFQ.text" = "Jazadco - جازادكو";
+
+/* Class = "UIButton"; normalTitle = "Track Order"; ObjectID = "XRC-jR-S5o"; */
+"XRC-jR-S5o.normalTitle" = "تتبع الطلب";
+
+/* Class = "UILabel"; text = "520 SR"; ObjectID = "XhL-cF-xmR"; */
+"XhL-cF-xmR.text" = "520 SR";
+
+/* Class = "UILabel"; text = "03:05"; ObjectID = "a8U-8Y-WMf"; */
+"a8U-8Y-WMf.text" = "03:05";
+
+/* Class = "UIButton"; normalTitle = "Reorder"; ObjectID = "gYw-8k-dc4"; */
+"gYw-8k-dc4.normalTitle" = "اعادة الطلب";
+
+/* Class = "UILabel"; text = "Total"; ObjectID = "rqg-MI-ena"; */
+"rqg-MI-ena.text" = "المجموع الكلي";

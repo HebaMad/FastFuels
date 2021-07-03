@@ -1,0 +1,9 @@
+
+/* Class = "UIButton"; normalTitle = "GET START"; ObjectID = "SD3-58-qde"; */
+"SD3-58-qde.normalTitle" = "هيا نبدأ";
+
+/* Class = "UILabel"; text = "Your account have Registered."; ObjectID = "b8n-JC-9k1"; */
+"b8n-JC-9k1.text" = "حسابك تم تسجيله";
+
+/* Class = "UILabel"; text = "Congrats !"; ObjectID = "miq-kV-bA9"; */
+"miq-kV-bA9.text" = "تهانينا !";

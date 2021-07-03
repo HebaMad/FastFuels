@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="17506" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="17505"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="VCRegister_Done" customModule="FastFual" customModuleProvider="target">
+            <connections>
+                <outlet property="buGETSTART" destination="SD3-58-qde" id="LbJ-OP-NDi"/>
+                <outlet property="laCongrat" destination="miq-kV-bA9" id="aU2-V9-tZT"/>
+                <outlet property="laYouraccounthaveRegistered1" destination="b8n-JC-9k1" id="We4-FD-k1l"/>
+                <outlet property="view" destination="i5M-Pr-FkT" id="sfx-zR-JGt"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="i5M-Pr-FkT">
+            <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" alignment="center" spacing="8" translatesAutoresizingMaskIntoConstraints="NO" id="fuk-WV-fch">
+                    <rect key="frame" x="109" y="596" width="196.5" height="66"/>
+                    <subviews>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Congrats !" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="miq-kV-bA9">
+                            <rect key="frame" x="15.5" y="0.0" width="165" height="41"/>
+                            <fontDescription key="fontDescription" type="boldSystem" pointSize="34"/>
+                            <nil key="textColor"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Your account have Registered." textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="b8n-JC-9k1">
+                            <rect key="frame" x="0.0" y="49" width="196.5" height="17"/>
+                            <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                            <nil key="textColor"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                    </subviews>
+                </stackView>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="3f6-vu-B1Z">
+                    <rect key="frame" x="50" y="696" width="314" height="50"/>
+                    <subviews>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="SD3-58-qde">
+                            <rect key="frame" x="0.0" y="0.0" width="314" height="50"/>
+                            <fontDescription key="fontDescription" type="system" weight="medium" pointSize="15"/>
+                            <state key="normal" title="GET START">
+                                <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            </state>
+                        </button>
+                    </subviews>
+                    <color key="backgroundColor" red="0.042007133359999997" green="0.52775794269999998" blue="0.61570221189999996" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                    <constraints>
+                        <constraint firstAttribute="trailing" secondItem="SD3-58-qde" secondAttribute="trailing" id="Bbq-4M-F0n"/>
+                        <constraint firstItem="SD3-58-qde" firstAttribute="leading" secondItem="3f6-vu-B1Z" secondAttribute="leading" id="XH8-Fy-9yp"/>
+                        <constraint firstAttribute="bottom" secondItem="SD3-58-qde" secondAttribute="bottom" id="Ymp-dA-NIK"/>
+                        <constraint firstItem="SD3-58-qde" firstAttribute="top" secondItem="3f6-vu-B1Z" secondAttribute="top" id="czi-NZ-H1l"/>
+                        <constraint firstAttribute="height" constant="50" id="vaF-pk-JHM"/>
+                    </constraints>
+                    <userDefinedRuntimeAttributes>
+                        <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                            <real key="value" value="8"/>
+                        </userDefinedRuntimeAttribute>
+                        <userDefinedRuntimeAttribute type="number" keyPath="shadowBlur">
+                            <real key="value" value="40"/>
+                        </userDefinedRuntimeAttribute>
+                        <userDefinedRuntimeAttribute type="color" keyPath="shadowColor">
+                            <color key="value" red="0.10980392156862745" green="0.45882352941176469" blue="0.73725490196078436" alpha="0.25" colorSpace="custom" customColorSpace="calibratedRGB"/>
+                        </userDefinedRuntimeAttribute>
+                        <userDefinedRuntimeAttribute type="size" keyPath="shadowOffset">
+                            <size key="value" width="0.0" height="18"/>
+                        </userDefinedRuntimeAttribute>
+                        <userDefinedRuntimeAttribute type="number" keyPath="shadowOpacity">
+                            <real key="value" value="1"/>
+                        </userDefinedRuntimeAttribute>
+                        <userDefinedRuntimeAttribute type="boolean" keyPath="maskToBounds" value="NO"/>
+                    </userDefinedRuntimeAttributes>
+                </view>
+                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="congratltion" translatesAutoresizingMaskIntoConstraints="NO" id="QLM-K9-qaO">
+                    <rect key="frame" x="19" y="219" width="376" height="371"/>
+                </imageView>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="fnl-2z-Ty3"/>
+            <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+            <constraints>
+                <constraint firstItem="3f6-vu-B1Z" firstAttribute="leading" secondItem="fnl-2z-Ty3" secondAttribute="leading" constant="50" id="G5X-oX-AN9"/>
+                <constraint firstItem="QLM-K9-qaO" firstAttribute="centerX" secondItem="i5M-Pr-FkT" secondAttribute="centerX" id="JOS-92-dxj"/>
+                <constraint firstItem="fnl-2z-Ty3" firstAttribute="trailing" secondItem="3f6-vu-B1Z" secondAttribute="trailing" constant="50" id="Qx3-zG-HwC"/>
+                <constraint firstItem="fuk-WV-fch" firstAttribute="top" secondItem="QLM-K9-qaO" secondAttribute="bottom" constant="6" id="lHK-sp-BUV"/>
+                <constraint firstItem="fuk-WV-fch" firstAttribute="centerX" secondItem="i5M-Pr-FkT" secondAttribute="centerX" id="soe-1q-tf2"/>
+                <constraint firstAttribute="bottom" secondItem="3f6-vu-B1Z" secondAttribute="bottom" constant="150" id="yPF-CD-P30"/>
+                <constraint firstItem="3f6-vu-B1Z" firstAttribute="top" secondItem="fuk-WV-fch" secondAttribute="bottom" constant="34" id="zWg-pc-0SQ"/>
+            </constraints>
+            <point key="canvasLocation" x="-196" y="80"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="congratltion" width="376" height="371"/>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

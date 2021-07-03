@@ -1,0 +1,21 @@
+
+/* Class = "UILabel"; text = "Enter OTP"; ObjectID = "9dv-x2-3dq"; */
+"9dv-x2-3dq.text" = "Enter OTP";
+
+/* Class = "UILabel"; text = "Resend code in "; ObjectID = "Sk9-oU-P9W"; */
+"Sk9-oU-P9W.text" = "Resend code in ";
+
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "U8O-fM-YdV"; */
+"U8O-fM-YdV.normalTitle" = "Continue";
+
+/* Class = "UILabel"; text = "Terms and Condition"; ObjectID = "Zw7-Qj-2mW"; */
+"Zw7-Qj-2mW.text" = "Terms and Condition";
+
+/* Class = "UILabel"; text = "by clicking ‘Continue’, you have read and agree with our "; ObjectID = "aIk-Tl-MyY"; */
+"aIk-Tl-MyY.text" = "by clicking ‘Continue’, you have read and agree with our ";
+
+/* Class = "UILabel"; text = "0:48"; ObjectID = "bbV-qW-I8H"; */
+"bbV-qW-I8H.text" = "0:48";
+
+/* Class = "UILabel"; text = "OTP has been sent to +966 50000000"; ObjectID = "koq-dd-3Yc"; */
+"koq-dd-3Yc.text" = "OTP has been sent to +966 50000000";

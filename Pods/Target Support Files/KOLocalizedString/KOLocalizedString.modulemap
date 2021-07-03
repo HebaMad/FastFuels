@@ -1,0 +1,6 @@
+framework module KOLocalizedString {
+  umbrella header "KOLocalizedString-umbrella.h"
+
+  export *
+  module * { export * }
+}

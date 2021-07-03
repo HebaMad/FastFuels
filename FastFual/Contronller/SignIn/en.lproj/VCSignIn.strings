@@ -1,0 +1,33 @@
+
+/* Class = "UILabel"; text = "Terms and Condition"; ObjectID = "7gk-xT-mxi"; */
+"7gk-xT-mxi.text" = "Terms and Condition";
+
+/* Class = "UIButton"; normalTitle = "Supplier"; ObjectID = "Iiz-BB-Mdd"; */
+"Iiz-BB-Mdd.normalTitle" = "Supplier";
+
+/* Class = "UIButton"; normalTitle = "Station"; ObjectID = "Rcr-vt-5FD"; */
+"Rcr-vt-5FD.normalTitle" = "Station";
+
+/* Class = "UITextField"; placeholder = "Phone number"; ObjectID = "TbV-Sb-9Hc"; */
+"TbV-Sb-9Hc.placeholder" = "Phone number";
+
+/* Class = "UILabel"; text = "Join Us As"; ObjectID = "Und-dX-Jw7"; */
+"Und-dX-Jw7.text" = "Join Us As";
+
+/* Class = "UILabel"; text = "Enter your phone number."; ObjectID = "ayT-WC-8FX"; */
+"ayT-WC-8FX.text" = "Enter your phone number.";
+
+/* Class = "UILabel"; text = "by clicking ‘Continue’, you have read and agree with our "; ObjectID = "bIp-aU-qsa"; */
+"bIp-aU-qsa.text" = "by clicking ‘Continue’, you have read and agree with our ";
+
+/* Class = "UILabel"; text = "Welcome Back"; ObjectID = "evn-l0-Odm"; */
+"evn-l0-Odm.text" = "Welcome Back";
+
+/* Class = "UILabel"; text = "we believe that a great app is a fast logining"; ObjectID = "jA1-bo-6fe"; */
+"jA1-bo-6fe.text" = "we believe that a great app is a fast logining";
+
+/* Class = "UILabel"; text = "966"; ObjectID = "k9u-qa-Q0f"; */
+"k9u-qa-Q0f.text" = "966";
+
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "tQF-SX-2lZ"; */
+"tQF-SX-2lZ.normalTitle" = "Continue";

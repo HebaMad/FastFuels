@@ -1,0 +1,9 @@
+
+/* Class = "UILabel"; text = "no internet!"; ObjectID = "Db0-HL-8vQ"; */
+"Db0-HL-8vQ.text" = "أسف ! لا يوجد انترنت";
+
+/* Class = "UILabel"; text = "pls, check your connection"; ObjectID = "JLG-bk-3sQ"; */
+"JLG-bk-3sQ.text" = "من فضلك تحقق من اتصالك بالانترنت ";
+
+/* Class = "UIButton"; normalTitle = "Try Again"; ObjectID = "a1Q-Kw-Hfr"; */
+"a1Q-Kw-Hfr.normalTitle" = "حاول مرة اخرى";
